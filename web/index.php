@@ -1,6 +1,6 @@
 <?php
 // ===============================
-// CONFIGURACIÓN Y CONEXIÓN A MYSQL
+// CONFIGURACIN Y CONEXIÓN A MYSQL
 // ===============================
 
 // Nombre del host de MySQL dentro de la red de Docker.
